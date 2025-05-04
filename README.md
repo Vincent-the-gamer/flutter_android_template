@@ -39,8 +39,8 @@ Flutter template project for building Android app only.
 - Run project: `flutter run`
 - Generate **keystore**(either `.keystore` or `.jks` is ok.) before build your apk:
   
-  > [!TIP]
-  > A default `release.jks` has generated in `android` folder for debug.
+> [!TIP]
+> A default `release.jks` has generated in `android` folder for debug.
 
   ```shell
   # Example
