@@ -5,7 +5,7 @@ Flutter template project for building Android app only.
 ![demo](.github/demo.png)
 
 > [!TIP]
-> You can run flutter create <xxx> to generate a new project if the template is outdated,
+> You can run `flutter create <xxx>` to generate a new project if the template is outdated,
 >
 > then follow the [Features](#features) part to configure your project.
 
